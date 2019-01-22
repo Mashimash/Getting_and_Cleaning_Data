@@ -1,4 +1,4 @@
-# Code Book the Course Project
+# Code Book for the Course Project
 
 This code book is for data  in `tidy_data.txt` file of this repository. 
 
