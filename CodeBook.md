@@ -1,6 +1,6 @@
 # This is a Code book for Coursera Getting_and_Cleaning_Data Week 4 course project
 
-This code book is for data  in `tidy_data.txt`file of this repository. 
+This code book is for data  in `tidy_data.txt` file of this repository. 
 
 Steps for the course project are in `README.md` file of this repository 
 
