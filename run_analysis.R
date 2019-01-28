@@ -102,7 +102,8 @@ names(extract_data) <- gsub("[\\(\\)-]", "", names(extract_data))
 names(extract_data)
 
 ###################################################################################
-# STEP 5 - FROM THE DATA SET IN STEP 4, CREATES A SECOND, INDEPENDENT TIDY DATA SET WITH THE AVERAGE OF EACH VARIABLE FOR EACH ACTIVITY AND EACH SUBJECT. 
+# STEP 5 - FROM THE DATA SET IN STEP 4, CREATES A SECOND, INDEPENDENT TIDY DATA SET 
+# WITH THE AVERAGE OF EACH VARIABLE FOR EACH ACTIVITY AND EACH SUBJECT. 
 ###################################################################################
 
 extract_data$Subject <- as.factor(extract_data$Subject)
