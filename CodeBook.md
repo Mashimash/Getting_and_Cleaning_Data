@@ -33,7 +33,7 @@ The data set contains Mean and Standard Deviation (STD) of variables, as listed 
 
 These time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into Body and Gravity acceleration signals using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 
-TimeBodyAccelerometerMeanX
+- 'TimeBodyAccelerometerMeanX'
 TimeBodyAccelerometerMeanY
 TimeBodyAccelerometerMeanZ
 TimeBodyAccelerometerSTDX
