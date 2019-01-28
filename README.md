@@ -1,6 +1,6 @@
 # Getting_and_Cleaning_Data
 
-## r_analysis.R
+## run_analysis.R
 
 This is the course project for the Getting and Cleaning Data Coursera course.
 The R script, `run_analysis.R`, does the following:
@@ -20,4 +20,4 @@ The R script, `run_analysis.R`, does the following:
 The end result is shown in the file `TidyData.txt`.
 
 ## Code Book
-The variables are described in CodeBook.md
+The variables are described in `CodeBook.md`.
